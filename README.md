@@ -1,39 +1,42 @@
 # AgencyOS: The Sovereign Marketing Intern
 
-**Turn OpenClaw into a Senior Marketing Strategist.**
+**Turn your OpenClaw into a Senior Marketing Strategist.**
 
-AgencyOS is a pre-configured "brain" for OpenClaw designed for agencies and freelancers. It doesn't just chat; it remembers your clients, mimics their voice, and executes complex research workflows.
+AgencyOS is a "Brain Configuration" for OpenClaw designed for agencies and freelancers. It doesn't just chat; it remembers your clients, mimics their voice, and executes complex research workflows.
 
-## 🧠 Features
+## 🧠 What's Inside?
 
-- **Client Memory:** Dedicated profile structure to store brand guidelines, do's/don'ts, and past campaigns.
-- **Voice Cloning:** "Voice Profiles" that ensure every draft sounds exactly like the client, not an AI.
-- **Workflow Engine:** Pre-built task scripts for Research, Content Repurposing, and Competitive Analysis.
-- **Sovereign & Secure:** Runs 100% locally. No data leaks to ChatGPT. No monthly SaaS fees.
+- **The Brain (`SOUL.md`):** A persona engineered to act like a Senior Strategist, not a chatbot.
+- **Client Memory:** A CRM-ready folder structure to store brand guidelines and campaign history.
+- **Voice Profiles:** Templates to ensure every draft sounds exactly like the client.
+- **Workflow Playbooks:** Pre-structured prompts for Research and Content Repurposing.
 
-## 🚀 Quick Start
+## ⚡ Installation (5 Seconds)
 
-1. **Clone & Setup:**
+Don't reinstall OpenClaw. Just give it a brain transplant.
+
+1. **Clone or Download this repo.**
+2. **Copy the files to your OpenClaw workspace:**
    ```bash
-   git clone https://github.com/aimodelscompass/AgencyOS.git
-   cd AgencyOS
-   ./setup.sh
+   cp -r agency-os/workspace/* ~/.openclaw/workspace/
    ```
-
-2. **Onboard a Client:**
-   Edit `workspace/memory/clients/template.md` and save it as `[ClientName].md`.
-
-3. **Run a Task:**
-   ```
-   "Based on the @Nike profile, research the latest sustainable footwear trends and draft 3 LinkedIn posts."
-   ```
+3. **Restart OpenClaw.**
 
 ## 📂 Structure
 
+- `/workspace/SOUL.md`: The Strategist Persona.
 - `/workspace/memory/clients`: Your CRM. One file per client.
 - `/workspace/memory/voice_profiles`: Style guides and tone examples.
-- `/workspace/tasks`: Pre-engineered prompts for complex jobs.
-- `setup.sh`: One-click installer for Docker + OpenClaw + AgencyOS Config.
+
+## 🚀 How to Use
+
+**Onboard a Client:**
+1. Open `memory/clients/template.md`.
+2. Fill in the brand details (Voice, Forbidden Words, Content Pillars).
+3. Save as `[ClientName].md`.
+
+**Run a Task:**
+> "Read the @Nike profile. Research the last 3 days of sustainable fashion news on X, and draft 5 LinkedIn hooks that match their 'Inspirational Athlete' voice profile."
 
 ---
 *Built by [AI Models Compass](https://x.com/aimodelscompass).*

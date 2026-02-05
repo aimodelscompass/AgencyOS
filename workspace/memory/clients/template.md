@@ -1,27 +1,47 @@
-# Client Profile Template
+# Client Profile: [Client Name]
 
-**Client Name:** [Name]
-**Industry:** [Industry]
-**Website:** [URL]
+> **File Name:** `[client_slug].md` (e.g., `nike.md`, `alex_hormozi.md`)
 
-## 🎯 Core Value Proposition
+## 🆔 Identity & Strategy
+*   **Industry:** [e.g., SaaS, Fashion, Fintech]
+*   **Website:** [URL]
+*   **North Star Metric:** [What are we trying to grow? e.g., "Free Trial Signups" or "Brand Awareness"]
+*   **Unique Value Prop (UVP):** [The one thing they do better than anyone else]
 
-- What is the ONE main thing they sell?
-- Who is their dream customer?
+## 👥 Audience Avatars
+### Avatar A: The "Pain-Aware"
+*   **Who they are:** [e.g., Overworked CMOs]
+*   **Current Pain:** [e.g., "Can't prove ROI to board"]
+*   **Dream State:** [e.g., "Automated reporting dashboard"]
 
-## 🗣️ Voice & Tone
+### Avatar B: The "Solution-Unaware"
+*   **Who they are:** [e.g., Junior Marketers]
+*   **Current Pain:** [e.g., "Spending 10 hours on manual data entry"]
+*   **Dream State:** [e.g., "Going home at 5 PM"]
 
-- **Voice Profile:** [Link to a voice_profile, e.g., "Friendly Professional"]
-- **Keywords:** [Words they love]
-- **Forbidden Words:** [Words they hate, e.g., "synergy", "unlock", "delve"]
+## 🗣️ Voice & Tone (The "Vibe Check")
+**Tone Sliders (1-10):**
+*   Formal 🔘────────── Casual (Score: [x])
+*   Funny 🔘────────── Serious (Score: [x])
+*   Enthusiastic 🔘────────── Dry (Score: [x])
 
-## 📝 Content Pillars
+**Adjectives:**
+*   [e.g., Punchy, Contrarian, Data-Driven, Empathetic]
 
-1. [Topic 1]
-2. [Topic 2]
-3. [Topic 3]
+**Stylistic Quirks:**
+*   [e.g., "Uses lowercase for headers"]
+*   [e.g., "Loves short, choppy sentences."]
+*   [e.g., "Uses 'we' instead of 'I'."]
 
-## ❌ The "Never" List
+## 📚 Knowledge Base
+*   **Key Products:**
+    1.  [Product Name] - [Benefit]
+    2.  [Product Name] - [Benefit]
+*   **Competitors to Crush:**
+    1.  [Competitor A] (Weakness: [e.g., "Too expensive"])
+    2.  [Competitor B] (Weakness: [e.g., "Bad support"])
 
-- Never mention competitors: [Competitor A], [Competitor B]
-- Never use emojis in email subject lines.
+## ❌ The "Red Lines" (Strict Rules)
+*   **Never say:** [List forbidden words/phrases]
+*   **Never mention:** [Topics to avoid, e.g., Politics, specific competitors]
+*   **Formatting:** [e.g., "No emojis in headers", "Oxford comma required"]

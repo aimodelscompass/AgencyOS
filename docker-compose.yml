@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  agency-os:
+    image: openclaw/gateway:latest
+    container_name: agency-os
+    restart: always
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./workspace:/root/.openclaw/workspace
+      - ./config.json:/root/.openclaw/config.json
+    environment:
+      - NODE_ENV=production
